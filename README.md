@@ -1,4 +1,4 @@
-# 💼 Sistema de Gestión de Ventas - Django
+﻿# 💼 Sistema de Gestión de Ventas - Django
 
 Sistema profesional para gestión integral de productos, clientes y ventas con interfaz moderna, validación robusta y mensajes de usuario en tiempo real.
 
@@ -115,6 +115,19 @@ python manage.py runserver
 - Accede a http://localhost:8000/admin/
 - Gestiona usuarios, productos, clientes y ventas
 - Visualiza datos directamente desde el ORM
+
+## 📸 Capturas de Pantalla
+
+Las capturas de las vistas principales están en la carpeta [`screenshots/`](./screenshots/):
+
+- `dashboard_1.png`: Métricas principales del dashboard
+- `dashboard_2.png`: Gráfico de barras y últimas ventas
+- `login.png`: Pantalla de inicio de sesión
+- `productos_lista.png`: Listado de productos
+- `clientes_lista.png`: Listado de clientes
+- `ventas_lista.png`: Listado de ventas
+
+Puedes abrirlas directamente desde la carpeta para ver la interfaz real de la aplicación.
 
 ## 📁 Estructura del Proyecto
 
@@ -301,9 +314,15 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 - GitHub: [github.com/adrianlugo](https://github.com/adrianlugo)
 - Email: adrianlugofrontela@gmail.com
 
+## Lo que aprendí
+
+- Cómo estructurar un proyecto Django profesional con CRUDs y autenticación.
+- Uso de Bootstrap para crear interfaces responsivas y atractivas.
+- Implementación de dashboards con métricas y gráficos usando Chart.js.
+- Buenas prácticas en vistas, formularios y manejo de mensajes en Django.
+- Cómo preparar un proyecto para portafolio y compartirlo online.
+
 ---
 
 **Última actualización**: Enero 2026
 **Versión**: 1.0
-
-
