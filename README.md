@@ -298,10 +298,11 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 **Adrian Lugo**
 
-- GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+- GitHub: [github.com/adrianlugo](https://github.com/adrianlugo)
 - Email: tu-email@ejemplo.com
 
 ---
 
 **Última actualización**: Enero 2026
 **Versión**: 1.0
+
