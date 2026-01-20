@@ -299,10 +299,11 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 **Adrian Lugo**
 
 - GitHub: [github.com/adrianlugo](https://github.com/adrianlugo)
-- Email: tu-email@ejemplo.com
+- Email: adrianlugofrontela@gmail.com
 
 ---
 
 **Última actualización**: Enero 2026
 **Versión**: 1.0
+
 
